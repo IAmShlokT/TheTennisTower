@@ -1,0 +1,6 @@
+{
+  "name": "Super Tennis Roguelite",
+  "description": "A fast, funny arcade tennis roguelite with crazy modifiers, wacky boss abilities, tower climbing, and viral build combos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

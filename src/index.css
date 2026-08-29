@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+  
+  h1, h2, h3, h4, .font-heading {
+    font-family: 'Barlow Condensed', 'Outfit', sans-serif;
+  }
+}
+
+.bg-dot-grid {
+  background-image: radial-gradient(#4ade80 1px, transparent 0);
+  background-size: 24px 24px;
+}
+
+.font-condensed {
+  font-family: 'Barlow Condensed', 'Outfit', sans-serif;
+}
